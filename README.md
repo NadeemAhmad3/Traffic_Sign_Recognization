@@ -65,7 +65,7 @@ An **end-to-end deep learning project** that builds, evaluates, and compares mul
 
 **1. Clone the Repository** 
 ```bash
-git clone https://github.com/YourUsername/Traffic_Sign_Recognition.git
+git clone https://github.com/NadeemAhmad3/Traffic_Sign_Recognition.git
 cd Traffic_Sign_Recognition
 ```
 
@@ -230,9 +230,9 @@ git push origin feature/AmazingFeature
 
 **Your Name**
 
-📫 **your.email@example.com**
-🔗 **GitHub**: [@YourUsername](https://github.com/YourUsername)
-🌐 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+📫 **onedaysuccussfull@gmail.com**
+
+🌐 **LinkedIn**: https://www.linkedin.com/in/nadeem-ahmad3/
 
 ---
 
